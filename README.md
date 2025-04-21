@@ -1,5 +1,5 @@
 **Portfolio**
-Live Preview - [Click Here]https://github.com/pavanKumarponna/pavankumar.com)
+Live Preview - [Click Here] ( https://pavankumarponna.github.io/pavankumar.com/)
 
 <br/>
 <div align="center">
