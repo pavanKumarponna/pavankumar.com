@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/pavankumar.com/static/css/main.2c917947.css",
-    "main.js": "/pavankumar.com/static/js/main.6866705a.js",
+    "main.js": "/pavankumar.com/static/js/main.2067b457.js",
     "index.html": "/pavankumar.com/index.html",
     "static/media/blob-haikei.svg": "/pavankumar.com/static/media/blob-haikei.ed4231cd548cd312fe4f.svg",
     "main.2c917947.css.map": "/pavankumar.com/static/css/main.2c917947.css.map",
-    "main.6866705a.js.map": "/pavankumar.com/static/js/main.6866705a.js.map"
+    "main.2067b457.js.map": "/pavankumar.com/static/js/main.2067b457.js.map"
   },
   "entrypoints": [
     "static/css/main.2c917947.css",
-    "static/js/main.6866705a.js"
+    "static/js/main.2067b457.js"
   ]
 }
